@@ -25,7 +25,7 @@ export function OrderDetails() {
         setCatalog(catalogData);
         setLoading(false);
       })
-      .catch(err => {
+      .catch(_ => {
         setError('Pedido não encontrado ou erro ao carregar dados.');
         setLoading(false);
       });
