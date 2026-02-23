@@ -22,7 +22,7 @@ Aplicação fullstack de e-commerce desenvolvida como solução para o desafio t
 ## Tecnologias Utilizadas
 
 * **Linguagens:** Java 21, TypeScript
-* **Backend:** Spring Boot, Spring Security, Spring Data JPA, Swagger.
+* **Backend:** Maven, Spring Boot, Spring Security, Spring Data JPA, Swagger.
 * **Frontend:** React, Vite, Axios, React Router.
 * **Banco de Dados:** PostgreSQL.
 * **Orquestração:** Docker e Docker Compose.
