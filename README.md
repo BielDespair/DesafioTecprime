@@ -34,7 +34,7 @@ Aplicação fullstack de e-commerce desenvolvida como solução para o desafio t
 1.  **Clonagem do Repositório:**
     ```bash
     git clone https://github.com/BielDespair/DesafioTecprime.git
-    cd desafio_techprime
+    cd DesafioTecprime
     ```
 
 2.  **Configuração do Ambiente (.env)**
